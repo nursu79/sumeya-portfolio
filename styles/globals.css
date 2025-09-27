@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap");
+
+@import "tailwindcss";
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background: linear-gradient(135deg, #181e2a 0%, #232946 100%);
+  color: #fff;
+  min-height: 100vh;
+  margin: 0;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.main-glass {
+  background: rgba(24, 30, 42, 0.9);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 22px;
+  border: 1.5px solid #232946;
+  max-width: 1100px;
+  margin: 4rem auto;
+  padding: 4rem 3.5rem;
+  position: relative;
+  z-index: 1;
+}
+
+.main-glass::after {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border-radius: 28px;
+  pointer-events: none;
+  z-index: -1;
+  background: radial-gradient(circle at 80% 20%, #ff9900 0%, transparent 70%);
+  opacity: 0.1;
+  filter: blur(8px);
+}
+
+.neon-btn {
+  display: inline-block;
+  padding: 0.75rem 2.5rem;
+  font-weight: 700;
+  border-radius: 12px;
+  background: #181e2a;
+  border: 2px solid #ff9900;
+  color: #fff;
+  box-shadow: 0 0 8px 1px #ff9900;
+  transition: box-shadow 0.3s, transform 0.2s;
+  font-family: "Space Grotesk", sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+.neon-btn:hover {
+  box-shadow: 0 0 12px 3px #ff9900;
+  transform: scale(1.02);
+}
+
+.neon-gradient-text {
+  background: linear-gradient(90deg, #a259ff, #ff9900);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
