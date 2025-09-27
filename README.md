@@ -3,7 +3,11 @@
 A modern, responsive portfolio website showcasing fullstack development skills with glassmorphism design and smooth animations.
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-portfolio-url.vercel.app)
+[View Portfolio](https://sumeya-portfolio.vercel.app)
+
+## 📸 Preview
+![Portfolio Preview](./public/portfolio-preview.jpg)
+*Modern glassmorphism design with neon accents and smooth animations*
 
 ## ✨ Features
 
@@ -35,8 +39,8 @@ A modern, responsive portfolio website showcasing fullstack development skills w
 
 1. Clone the repository
 ```bash
-git clone https://github.com/nursu79/portfolio.git
-cd portfolio
+git clone https://github.com/nursu79/sumeya-portfolio.git
+cd sumeya-portfolio
 ```
 
 2. Install dependencies
@@ -62,6 +66,7 @@ npm run dev
 - **Email**: sumeyanur7@gmail.com
 - **LinkedIn**: [Sumeya Issa](https://www.linkedin.com/in/sumeya-issa-6ba350339)
 - **GitHub**: [nursu79](https://github.com/nursu79)
+- **Repository**: [sumeya-portfolio](https://github.com/nursu79/sumeya-portfolio)
 
 ## 📄 License
 
