@@ -10,8 +10,8 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?auto=format&fit=crop&w=800&h=600&q=80",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://sumeya-portfolio-delta.vercel.app/",
+    githubUrl: "https://github.com/nursu79/sumeya-portfolio",
   },
   {
     id: 2,
