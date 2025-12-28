@@ -15,14 +15,14 @@ const projects = [
   },
   {
     id: 2,
-    title: "Wander Wallet",
+    title: "Wild Oasis – Booking Web App",
     description:
-      "A mobile wallet application built with Kotlin for Android, featuring secure transaction management and user-friendly interface.",
+      "A full‑stack booking platform with in‑app guidance, weather info,interactive map, reviews, and Chapa payments to help guests make and complete reservations easily.",
     image:
-      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&h=600&q=80",
-    tech: ["Kotlin", "Android", "Mobile Development", "UI/UX"],
-    liveUrl: "https://github.com/nursu79/Wander-Wallet-",
-    githubUrl: "https://github.com/nursu79/Wander-Wallet-",
+      "bg.png ",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "FastAPI"],
+    liveUrl: "https://wild-oasis-refined.vercel.app/",
+    githubUrl: "https://github.com/nursu79/the-wild-oasis",
   },
   {
     id: 3,
@@ -30,37 +30,51 @@ const projects = [
     description:
       "Cross-platform mobile wallet application built with Flutter and Dart, providing consistent experience across iOS and Android.",
     image:
-      "https://images.unsplash.com/photo-1611224923853-80b023f02d71?auto=format&fit=crop&w=800&h=600&q=80",
+      "cristiano-sousa-QqYEbI9Xgms-unsplash.jpg",
     tech: ["Flutter", "Dart", "Cross-platform", "Mobile UI"],
     liveUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
     githubUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
   },
   {
     id: 4,
-    title: "Solar System Simulation",
+    title: "CivicFix – Public Issue Tracker",
     description:
-      "Interactive 3D solar system simulation built with JavaScript, featuring realistic planetary movements and visual effects.",
+      "A web app where citizens can report local issues with location, see them on a map, and use dashboards and charts to track trends over time.",
     image:
-      "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=800&h=600&q=80",
-    tech: ["JavaScript", "3D Graphics", "WebGL", "Animation"],
+      "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=800&h=600&q=80",
+    tech: ["Next.js", "Node.js", "Express", "Supabase", "Leaflet", "Chart.js"],
     liveUrl:
-      "https://github.com/Hemennunu/CG-Solar-System-Simulation-2024-2025",
+      "/",
     githubUrl:
-      "https://github.com/Hemennunu/CG-Solar-System-Simulation-2024-2025",
+      "https://github.com/nursu79/civicfix",
   },
   {
     id: 5,
-    title: "Project Management System",
+    title: " A FUll-Stack Tour Booking Web App",
     description:
-      "A comprehensive project management system built with TypeScript, featuring task tracking, team collaboration, and progress monitoring.",
+      "A Backend API  for a Tour APP where I applied my knowlege from the course of Jhon Shnedat on Udemy",
     image:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&h=600&q=80",
-    tech: ["TypeScript", "React", "Node.js", "Database"],
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&h=600&q=80",
+    tech: ["JavaScript", "Node.js", "Express,MongoDB,Auth0"],
     liveUrl:
-      "https://github.com/Yitbarek-temp-account/Project-management-system_2024_25",
+      "https://github.com/nursu79/fullstack-node-api",
     githubUrl:
-      "https://github.com/Yitbarek-temp-account/Project-management-system_2024_25",
+      "https://github.com/nursu79/fullstack-node-api",
   },
+
+    {
+    id: 6,
+    title: "Digital Marketer Portfolio",
+    description:
+      "Built a portfolio for a social media manager client , in which their work was shown in a practical way",
+    image:
+      "swello-JUh9f3jAAi8-unsplash.jpg",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    liveUrl:
+      "https://digital-marketer-portfolio-lyart.vercel.app/",
+    githubUrl:
+      "https://github.com/nursu79/Digital-Marketer-Portfolio",
+  }
 ];
 
 const Projects = () => {
