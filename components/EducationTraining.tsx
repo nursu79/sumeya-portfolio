@@ -35,7 +35,7 @@ const educationData = [
     skills: ["Documentation", "Annotation", "Collaboration"],
     image:
       "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&w=400&h=300&q=80",
-    verificationUrl: "#",
+    verificationUrl: "https://drive.google.com/file/d/19MCR40no_1m-_Quju66FRnf6RBEg1Vlt/view?usp=drive_link",
   },
 
   // Bootcamps

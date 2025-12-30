@@ -19,7 +19,7 @@ const projects = [
     description:
       "A full‑stack booking platform with in‑app guidance, weather info,interactive map, reviews, and Chapa payments to help guests make and complete reservations easily.",
     image:
-      "https://drive.google.com/file/d/11wMqKKScUKZK733kxKDqw4ikpbjOsoGu/view?usp=drive_link ",
+      "https://images.unsplash.com/photo-1542718610-a1d656d1884c?auto=format&fit=crop&w=800&h=600&q=80",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "FastAPI","Tailwind CSS"],
     liveUrl: "https://wild-oasis-refined.vercel.app/",
     githubUrl: "https://github.com/nursu79/the-wild-oasis",
@@ -30,7 +30,7 @@ const projects = [
     description:
       "•Built a web platform that connects farmers with buyers so they can list produce, browse offers, and arrange deals in one place.",
     image:
-      "https://drive.google.com/file/d/1nYO1310EaAF3XVmPshvARx4-ml_Q80am/view?usp=drive_link",
+      "https://images.unsplash.com/photo-1526399743290-f73cb4022f48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZhcm1lciUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D",
     tech: ["Node.js", "Express", "MongoDB", "React", "Tailwind CSS", "Framer Motion"],
     liveUrl: "https://farmerfrontend.vercel.app/",
     githubUrl: "https://github.com/Fenet-Ab/farmer-hub.git",
@@ -41,7 +41,7 @@ const projects = [
     description:
       "Cross-platform mobile wallet application built with Flutter and Dart, providing consistent experience across iOS and Android.",
     image:
-      "https://drive.google.com/file/d/1BDpTn8ZgTjWPg-PLfgE8_hQv7bzE5R8d/view?usp=drive_link",
+      "https://images.unsplash.com/photo-1759978200438-38971e248641?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tech: ["Flutter", "Dart", "Cross-platform", "Mobile UI"],
     liveUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
     githubUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
@@ -78,7 +78,7 @@ const projects = [
     description:
       "A saving Mobile app that helps  users to save, manage and track their money",
     image:
-      "https://unsplash.com/photos/hand-using-calculator-on-smartphone-over-money-SQMKCU7m0L",
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&h=600&q=80",
     tech: ["Flutter", "Dart", "Cross-platform", "Mobile UI"],
     liveUrl:
       "https://github.com/betsinat-amare/SACCO-Saving-and-Credit-Cooperation-.git",
@@ -92,7 +92,7 @@ const projects = [
     description:
       "Built a portfolio for a social media manager client , in which their work was shown in a practical way",
     image:
-      "https://drive.google.com/file/d/16gXPYhgObFjsQ0ZeOPY3X_Wh_PELI5xz/view?usp=drive_link",
+      "https://images.unsplash.com/photo-1556740758-90de374c12ad?auto=format&fit=crop&w=800&h=600&q=80",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
     liveUrl:
       "https://digital-marketer-portfolio-lyart.vercel.app/",
