@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const projects = [
   {
     id: 1,
-    title: "Sumeya Ibrahim — Portfolio (Current)",
+    title: "Sumeya Ibrahim — Portfolio",
     description:
       "A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS featuring glassmorphism design and smooth animations.",
     image:
@@ -19,24 +19,35 @@ const projects = [
     description:
       "A full‑stack booking platform with in‑app guidance, weather info,interactive map, reviews, and Chapa payments to help guests make and complete reservations easily.",
     image:
-      "bg.png ",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "FastAPI"],
+      "https://drive.google.com/file/d/11wMqKKScUKZK733kxKDqw4ikpbjOsoGu/view?usp=drive_link ",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "FastAPI","Tailwind CSS"],
     liveUrl: "https://wild-oasis-refined.vercel.app/",
     githubUrl: "https://github.com/nursu79/the-wild-oasis",
   },
-  {
+    {
     id: 3,
+    title: "Farmer Hub",
+    description:
+      "•Built a web platform that connects farmers with buyers so they can list produce, browse offers, and arrange deals in one place.",
+    image:
+      "https://drive.google.com/file/d/1nYO1310EaAF3XVmPshvARx4-ml_Q80am/view?usp=drive_link",
+    tech: ["Node.js", "Express", "MongoDB", "React", "Tailwind CSS", "Framer Motion"],
+    liveUrl: "https://farmerfrontend.vercel.app/",
+    githubUrl: "https://github.com/Fenet-Ab/farmer-hub.git",
+  },
+  {
+    id: 4,
     title: "Wander Wallet Flutter",
     description:
       "Cross-platform mobile wallet application built with Flutter and Dart, providing consistent experience across iOS and Android.",
     image:
-      "cristiano-sousa-QqYEbI9Xgms-unsplash.jpg",
+      "https://drive.google.com/file/d/1BDpTn8ZgTjWPg-PLfgE8_hQv7bzE5R8d/view?usp=drive_link",
     tech: ["Flutter", "Dart", "Cross-platform", "Mobile UI"],
     liveUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
     githubUrl: "https://github.com/nursu79/Wander_Wallet_Flutter",
   },
   {
-    id: 4,
+    id: 5,
     title: "CivicFix – Public Issue Tracker",
     description:
       "A web app where citizens can report local issues with location, see them on a map, and use dashboards and charts to track trends over time.",
@@ -49,7 +60,7 @@ const projects = [
       "https://github.com/nursu79/civicfix",
   },
   {
-    id: 5,
+    id: 6,
     title: " A FUll-Stack Tour Booking Web App",
     description:
       "A Backend API  for a Tour APP where I applied my knowlege from the course of Jhon Shnedat on Udemy",
@@ -61,14 +72,27 @@ const projects = [
     githubUrl:
       "https://github.com/nursu79/fullstack-node-api",
   },
+    {
+    id: 7,
+    title: "SACCO-Saving-and-Credit-Cooperation-",
+    description:
+      "A saving Mobile app that helps  users to save, manage and track their money",
+    image:
+      "https://unsplash.com/photos/hand-using-calculator-on-smartphone-over-money-SQMKCU7m0L",
+    tech: ["Flutter", "Dart", "Cross-platform", "Mobile UI"],
+    liveUrl:
+      "https://github.com/betsinat-amare/SACCO-Saving-and-Credit-Cooperation-.git",
+    githubUrl:
+      "https://github.com/betsinat-amare/SACCO-Saving-and-Credit-Cooperation-.git",
+  },
 
     {
-    id: 6,
+    id: 8,
     title: "Digital Marketer Portfolio",
     description:
       "Built a portfolio for a social media manager client , in which their work was shown in a practical way",
     image:
-      "swello-JUh9f3jAAi8-unsplash.jpg",
+      "https://drive.google.com/file/d/16gXPYhgObFjsQ0ZeOPY3X_Wh_PELI5xz/view?usp=drive_link",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
     liveUrl:
       "https://digital-marketer-portfolio-lyart.vercel.app/",
